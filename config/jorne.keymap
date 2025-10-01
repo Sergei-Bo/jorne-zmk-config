@@ -16,6 +16,7 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 #include "keys_ru.h"
+
 / {
     keymap {
         compatible = "zmk,keymap";
