@@ -23,7 +23,7 @@
 &kp LWIN  &kp GRAVE      &kp Q  &kp W  &kp E            &kp R            &kp T      &kp Y        &kp U            &kp I      &kp O    &kp P     &kp LBKT            &mt RWIN RBKT
           &mt LCTRL TAB  &kp A  &kp S  &kp D            &kp F            &kp G      &kp H        &kp J            &kp K      &kp L    &kp SEMI  &mt RCTRL SQT
           &mt LALT ESC   &kp Z  &kp X  &kp C            &kp V            &kp B      &kp N        &kp M            &kp COMMA  &kp DOT  &kp FSLH  &mt RIGHT_ALT BSLH
-                                       &lt 2 BACKSPACE  &mt LSHFT SPACE  &lt 1 RET  &lt 1 ENTER  &mt RSHFT SPACE  &lt 2 DEL
+                                       &lt 1 BACKSPACE  &mt LSHFT SPACE  &lt 2 RET  &lt 2 ENTER  &mt RSHFT SPACE  &lt 1 DEL
             >;
         };
 
