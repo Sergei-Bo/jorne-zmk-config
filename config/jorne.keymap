@@ -17,6 +17,15 @@
 &mt { tapping-term-ms = <1000>; };
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        Delete {
+            bindings = <&kp DELETE>;
+            key-positions = <19 18>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
