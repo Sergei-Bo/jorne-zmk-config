@@ -35,13 +35,12 @@
 
         Ctr_V {
             bindings = <&kp LC(V)>;
-            key-positions = <5 6>;
+            key-positions = <18 17>;
         };
 
         Win_C {
             bindings = <&kp LG(V)>;
-            key-positions = <30 31>;
-            require-prior-idle-ms = <1000>;
+            key-positions = <5 6>;
         };
 
         BT-0 {
