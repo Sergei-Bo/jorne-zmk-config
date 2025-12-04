@@ -41,7 +41,7 @@
         Win_C {
             bindings = <&kp LG(V)>;
             key-positions = <30 31>;
-            timeout-ms = <1000>;
+            require-prior-idle-ms = <1000>;
         };
 
         BT-0 {
