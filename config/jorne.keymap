@@ -41,6 +41,17 @@
         Win_C {
             bindings = <&kp LG(V)>;
             key-positions = <30 31>;
+            timeout-ms = <1000>;
+        };
+
+        BT-0 {
+            bindings = <&bt BT_SEL 0>;
+            key-positions = <38 40 39>;
+        };
+
+        BT-1 {
+            bindings = <&bt BT_SEL 1>;
+            key-positions = <40 38 31>;
         };
     };
 
